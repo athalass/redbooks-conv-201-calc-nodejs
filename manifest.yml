@@ -4,7 +4,7 @@ declared-services:
     label: conversation
     plan: free
 applications:
-- name: conv-201-xxx-calc
+- name: AET-South-Conversation-01
   command: npm start
   path: .
   memory: 512M
